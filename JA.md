@@ -76,8 +76,8 @@
 |Go 1.6 ~ 1.9|○|クローラーを始めとしてWeb方面が中心|
 |C, C++, C++11||openFrameworksによるUIやグラフプロット・Arduinoなど|
 |Android Java|○|レビューを受けながら機能追加できる程度|
-|HTML4/5|○||
-|CSS, SCSS|○|1から書けるがBootstrapも使う|
+|HTML|○|Pug (Jade) 経験あり|
+|CSS, SCSS|○|1から書けるがBootstrapも使用|
 |JS, ES2015|○|BabelによるTranspileを含む・言語自体は詳しくない|
 
 
@@ -86,15 +86,15 @@
 |名前|コメント|
 |:-:|:--|
 |React.js|RXの勉強として|
-|Vue.js|セキュリティ教材のWeb部分で使用|
-|jQuery||
+|Vue.js|独学で数回使用した程度|
+|jQuery|フロントエンドだけでなく、jQuery互換のAPIを載せたスクレイピングライブラリもよくあるため度々使用|
 
 
 ### Webフレームワーク（バックエンド）
 
 |名前|コメント|
 |:-:|:--|
-|Flask (Python)||
+|Flask (Python)|ごく小規模なものに多数使用|
 |gorilla/mux (Go)|Web API・簡易なJSON RPC|
 |labstack/echo (Go)|既存コードに機能追加した程度|
 
@@ -131,7 +131,7 @@
 |AWS|ECS|サービス初期から利用|
 |AWS|IAM||
 |AWS|Lambda|Python 2.7, 3.6のみ|
-|AWS|S3||
+|AWS|S3|Webへの公開も経験あり|
 |AWS|SQS||
 
 
@@ -140,7 +140,7 @@
 |名前|コメント|
 |:-:|:--|
 |Travis CI|個人プロジェクトと業務で少し|
-|CircleCI|業務|
+|CircleCI|すべて業務|
 
 
 ### 開発手法・マネジメント
