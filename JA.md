@@ -6,7 +6,7 @@
  - puhitaku
 
 
-## Webサービス
+## 各種アカウント
 
 |サービス|リンク|備考|
 |:-:|:-:|:-:|
@@ -17,61 +17,136 @@
 |SlideShare|[Takumi Sueda](https://www.slideshare.net/takumisueda)|ルーターハックなど以前のスライド|
 
 
-# 職業経歴
+# 職務経歴
 
-## フラー株式会社 (2015/10~現在)
+## 2015/10 ~ 現在: フラー株式会社
 
 職務内容 = デベロッパー
+
 
 ### 職務概要
 
  - AWSをインフラとする開発業務
  - Goによる自社サービスWebバックエンド
- - PythonとRabbitMQによるアプリAPIサーバーをGoにリプレースし単一インスタンス化
- - インスタンス50台を超えてauto scaleするアプリストアクローラー
+ - PythonとRabbitMQによる古いアプリAPIサーバーをGoにリプレースし単一インスタンス化
+ - インスタンス50台を超えてオートスケールする1万行程度のアプリストアクローラーシステム構築
  - その他動画配信サイトなど多様なWebサイトクローラー
- - AVR・ESP8266とArduino IDEを組み合わせた社内ハードウェア制作
+ - AVR ATMEGA・ESP8266とArduino IDEによる社内およびイベント用ハードウェア制作
  - React.js + AWS CloudSearchによる営業メンバー向けユーティリティー
  - [社内用Pythonライブラリを許可を得てOSSとして公開](https://github.com/fuller-inc/bqx)
 
 
-# 能力
+## 2017/10 ~ 現在: 合同会社ヘマタイト
 
-## プログラミング言語
-
-|言語名|使用歴|レベル自己評価|コメント|
-|:-:|:-:|:-:|:-:|
-|Python 3.x|4年|★★★★☆|PEP 8に準拠したコードが書ける・ライブラリ開発経験あり・道具としてではなく言語として好き・[PyCon JP 2017にて登壇](http://gihyo.jp/news/report/01/pyconjp2017/0001#sec3)|
-|Go|1年+|★★★☆☆||
-
- - HTML, CSS, ES5, ES2015
- - Bootstrap
- - Vue.js, React.js
- - gulp.js
-
- - Python 2.7 ~ 3.6
- - Go 1.6 ~ 1.9
- - Android Java
-
- - AWS CloudFormation
- - AWS CloudWatch
- - AWS DataPipeline
- - AWS DynamoDB
- - AWS EC2
- - AWS ECS
- - AWS IAM
- - AWS S3
- - AWS SQS
+職務内容 = デベロッパー（パートタイム）
 
 
-# 能力
+### 職務概要
 
-## 使える言語
+ - 高専における教育用IoTセキュリティ教材の開発（Raspberry Pi + Python 3.6 + 自作ハード）
+
+
+# アピールポイント
+
+ - 5歳ごろからPCに触れ、技術一筋で生きてきました
+ - 科学的視点でものごとを考察し、矛盾のない満足する結果が得られるまで追求します
+ - ものづくり全体に亘って技術をリスペクトし、好奇心を持って学びます
+ - 他者に読まれることを想定し、言語の文化を尊重した合理的なコードが書けます
+ - イベント参加が多く、「ルータ芸人」の通称に始まり露出が多いです
+ - プレゼンに自信があります
+
+
+# スキル
+
+## 自然言語
 
 |言語|レベル|
 |:-:|:-:|
-|日本語|ネイティブ|
-|英語|軽めの会話が可能・読み書きのほうが得意・TOEIC 810点|
+|日本語（標準語）|ネイティブ|
+|日本語（岡山弁）|ネイティブ|
+|英語|軽めの会話が可能・TOEIC 810点|
 
 
-## 
+## 開発言語
+
+記述歴はブランクを除いています。
+
+|言語名|業務経験|コメント|
+|:---:|:-----:|:-----:|
+|Python 2.7 ~ 3.x|○|経験4年ほど・GitHubにてライブラリ公開・[PyCon JP 2017にて登壇](http://gihyo.jp/news/report/01/pyconjp2017/0001#sec3)|
+|Go 1.6 ~ 1.9|○|クローラーを始めとしてWeb方面が中心|
+|C, C++, C++11||openFrameworksによるUIやグラフプロット|
+|Android Java|○|レビューを受けながら機能追加できる程度|
+|HTML4/5|○||
+|CSS, SCSS|○|1から書けるがBootstrapも使う|
+|JS, ES2015|○|BabelによるTranspileを含む・言語自体は詳しくない|
+
+
+## Webフレームワーク（フロント）
+
+|名前|コメント|
+|:-:|:-:|
+|React.js|RXの勉強として|
+|Vue.js||
+|jQuery||
+
+
+## Webフレームワーク（バックエンド）
+
+|名前|コメント|
+|:-:|:-:|
+|Flask (Python)||
+|gorilla/mux (Go)||
+|labstack/echo (Go)|既存コードに機能追加した程度|
+
+
+## OS
+
+|名前|コメント|
+|:-:|:-:|
+|macOS|開発では最も頻繁に使用|
+|Linux|Ubuntu, Debian, OpenWrt, LEDE|
+|Windows|長く使用したが開発では頻度低|
+
+
+## ハードウェア系技術
+
+|名前|コメント|
+|:-:|:-:|
+|Arduino|高専プロコン・社内向けハードウェア制作で使用|
+|Raspberry Pi, 2, 3||
+|labstack/echo (Go)|既存コードに機能追加した程度|
+
+
+## クラウド
+
+|提供元|サービス名|コメント|
+|AWS|CloudFormation|20 ~ 30リソース程度のオーケストレーション|
+|AWS|CloudSearch|軽く触った程度|
+|AWS|CloudWatch|CloudWatch Dashboardでデータ収集状況を可視化し社内に設置したりなど|
+|AWS|DataPipeline|AWS ECS登場前のクローラー基盤として使用|
+|AWS|DynamoDB||
+|AWS|EC2||
+|AWS|ECS|サービス初期から利用|
+|AWS|IAM||
+|AWS|Lambda||
+|AWS|S3||
+|AWS|SQS||
+
+
+## CI
+
+|名前|コメント|
+|:-:|:-:|
+|Travis CI|個人プロジェクトと業務で少し|
+|CircleCI|業務|
+
+
+## 開発手法・マネジメント
+
+|名前|コメント|
+|:-:|:-:|
+|カンバン|Kanban in Actionに沿ったもの・それ以前はTrelloベース|
+|スプリント|メンバーから出たアイデアベースでストーリーラインを設計して実際に開発した|
+|イテレーション|各種手法と組み合わせて使っていた|
+
