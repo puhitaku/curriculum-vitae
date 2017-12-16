@@ -76,7 +76,7 @@
 |:---:|:-----:|:------|
 |Python 2.7 ~ 3.x|○|経験4年ほど・GitHubにてライブラリ公開・[PyCon JP 2017にて登壇](http://gihyo.jp/news/report/01/pyconjp2017/0001#sec3)|
 |Go 1.6 ~ 1.9|○|クローラーを始めとしてWeb方面が中心|
-|C, C++, C++11||openFrameworksによるUIやグラフプロット|
+|C, C++, C++11||openFrameworksによるUIやグラフプロット・Arduinoなど|
 |Android Java|○|レビューを受けながら機能追加できる程度|
 |HTML4/5|○||
 |CSS, SCSS|○|1から書けるがBootstrapも使う|
@@ -88,7 +88,7 @@
 |名前|コメント|
 |:-:|:--|
 |React.js|RXの勉強として|
-|Vue.js||
+|Vue.js|セキュリティ教材のWeb部分で使用|
 |jQuery||
 
 
@@ -97,7 +97,7 @@
 |名前|コメント|
 |:-:|:--|
 |Flask (Python)||
-|gorilla/mux (Go)||
+|gorilla/mux (Go)|Web API・簡易なJSON RPC|
 |labstack/echo (Go)|既存コードに機能追加した程度|
 
 
@@ -126,13 +126,13 @@
 |:-:|:-:|:--|
 |AWS|CloudFormation|20 ~ 30リソース程度のオーケストレーション|
 |AWS|CloudSearch|軽く触った程度|
-|AWS|CloudWatch|CloudWatch Dashboardでデータ収集状況を可視化し社内に設置したりなど|
+|AWS|CloudWatch|Dashboardで自社プロダクトのメトリクスを可視化し社内にモニター設置|
 |AWS|DataPipeline|AWS ECS登場前のクローラー基盤として使用|
 |AWS|DynamoDB||
 |AWS|EC2||
 |AWS|ECS|サービス初期から利用|
 |AWS|IAM||
-|AWS|Lambda||
+|AWS|Lambda|Python 2.7, 3.6のみ|
 |AWS|S3||
 |AWS|SQS||
 
