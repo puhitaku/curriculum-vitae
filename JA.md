@@ -13,6 +13,7 @@
 |:-:|:-:|:-:|
 |Twitter|[puhitaku](https://twitter.com/puhitaku)|
 |Facebook|[末田 卓巳](https://www.facebook.com/puhitaku)|
+|Wantedly|[末田 卓巳](https://www.wantedly.com/users/754069)|
 |GitHub|[puhitaku](https://github.com/puhitaku)|
 |Speaker Deck|[Takumi Sueda](https://speakerdeck.com/puhitaku)|PyCon JP 2017など最近のスライド|
 |SlideShare|[Takumi Sueda](https://www.slideshare.net/takumisueda)|ルーターハックなど以前のスライド|
