@@ -6,4 +6,5 @@
 
 [職務経歴書 (Japanese, 日本語)](JA.md)
 
-[Curriculum Vitae (English, 英語)](EN.md)
+~~Curriculum Vitae (English, 英語)~~ Under construction
+
