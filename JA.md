@@ -195,19 +195,20 @@
 
 ### クラウド
 
-|提供元|サービス名|コメント|
-|:-:|:-:|:--|
-|AWS|CloudFormation|20 ~ 30リソース程度のオーケストレーション|
-|AWS|CloudSearch|軽く触った程度|
-|AWS|CloudWatch|Dashboardで自社プロダクトのメトリクスを可視化し社内にモニター設置|
-|AWS|DataPipeline|AWS ECS登場前のクローラー基盤として使用|
-|AWS|DynamoDB||
-|AWS|EC2||
-|AWS|ECS|サービス初期から利用|
-|AWS|IAM||
-|AWS|Lambda|Python 2.7, 3.6のみ|
-|AWS|S3|Webへの公開も経験あり|
-|AWS|SQS||
+ 歴5年・業務5年
+
+ - AWSにアプリケーションに応じたクラウドリソースをIaCを用いてデプロイできるくらいの能力
+ - CloudFormation: 20 ~ 30リソース程度のオーケストレーション
+ - CloudFront
+ - CloudWatch: Dashboardで自社プロダクトのメトリクスを可視化し社内にモニターを設置した経験あり
+ - DataPipeline: AWS ECS登場前のクローラー基盤として使用
+ - DynamoDB
+ - EC2
+ - ECS: サービス初期から利用
+ - IAM
+ - Lambda: Pythonが主
+ - S3: Webへの公開も経験あり
+ - SQS
 
 
 ### CI
