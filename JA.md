@@ -11,15 +11,15 @@
 ### 各種アカウント・ポートフォリオ
 
 |サービス|リンク|備考|
-|:-:|:-:|:-:|
+|:-:|:-:|:--|
 |Twitter|[puhitaku](https://twitter.com/puhitaku)|
 |Facebook|[末田 卓巳](https://www.facebook.com/puhitaku)|
 |GitHub|[puhitaku](https://github.com/puhitaku)|
 |Wantedly|[末田 卓巳](https://www.wantedly.com/users/754069)|
 |Speaker Deck|[Takumi Sueda](https://speakerdeck.com/puhitaku)|PyCon JPなど最近のスライド|
 |SlideShare|[Takumi Sueda](https://www.slideshare.net/takumisueda)|ルーターハックなど以前のスライド|
-|ブログ|[Zopfcode](http://www.zopfco.de/)|ハックを発信するブログ; 話題となった記事多数|
-|ホームページ|[YOTSUHACK.dev](https://yotsuhack.dev/)|キャリアも含めたポートフォリオサイト/個人事業HPを兼ねる|
+|ブログ|[Zopfcode](http://www.zopfco.de/)|ハックを発信するブログ/話題となった記事多数|
+|ホームページ|[YOTSUHACK.DEV](https://yotsuhack.dev/)|キャリアも含めたポートフォリオサイト/個人事業HPを兼ねる|
 
 
 ## 職務経歴
