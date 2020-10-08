@@ -133,13 +133,6 @@
  - ArduinoなどMCU開発
 
 
-### Android Java
-
- 歴1年未満/業務経験なし
-
- - 上級者のレビューを受けながら機能追加できるくらいの能力
-
-
 ### Web（フロントエンド）
 
  歴5年/業務2年
@@ -159,6 +152,8 @@
 
 
 ### Linux kernel
+
+ 歴7年/業務2年
 
  - カスタムボードにLinuxを移植できるくらいの能力
  - 趣味での具体例: [SHARPの電子辞書にLinuxを移植](http://www.zopfco.de/entry/sharp_brain_linux)
