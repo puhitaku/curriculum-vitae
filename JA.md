@@ -23,15 +23,15 @@
 ### 各種アカウント・ポートフォリオ
 
 |サービス|リンク|備考|
-|:-:|:-:|:--|
-|ブログ|[Zopfcode](http://www.zopfco.de/)|ハックを発信するブログ/話題となった記事多数|
-|ホームページ|[YOTSUHACK.DEV](https://yotsuhack.dev/)|キャリアも含めたポートフォリオサイト/個人事業HPを兼ねる|
-|Twitter|[puhitaku](https://twitter.com/puhitaku)|
-|Facebook|[末田 卓巳](https://www.facebook.com/puhitaku)|
-|GitHub|[puhitaku](https://github.com/puhitaku)|
-|Wantedly|[末田 卓巳](https://www.wantedly.com/users/754069)|
-|Speaker Deck|[Takumi Sueda](https://speakerdeck.com/puhitaku)|PyCon JPなど最近のスライド|
-|SlideShare|[Takumi Sueda](https://www.slideshare.net/takumisueda)|ルーターハックなど過去のスライド|
+|:-:|:--|:--|
+|ブログ|Zopfcode [http://www.zopfco.de/](http://www.zopfco.de/)|ハックを発信するブログ/話題となった記事多数|
+|ホームページ|YOTSUHACK.DEV [https://yotsuhack.dev/](https://yotsuhack.dev/)|キャリアも含めたポートフォリオサイト/個人事業HPを兼ねる|
+|Twitter|puhitaku [https://twitter.com/puhitaku](https://twitter.com/puhitaku)|
+|Facebook|末田 卓巳 [https://www.facebook.com/puhitaku](https://www.facebook.com/puhitaku)|
+|GitHub|puhitaku [https://github.com/puhitaku](https://github.com/puhitaku)|
+|Wantedly|末田 卓巳 [https://www.wantedly.com/users/754069](https://www.wantedly.com/users/754069)|
+|Speaker Deck|puhitaku [https://speakerdeck.com/puhitaku](https://speakerdeck.com/puhitaku)|PyCon JPなど最近のスライド|
+|SlideShare|takumisueda [https://www.slideshare.net/takumisueda](https://www.slideshare.net/takumisueda)|ルーターハックなど過去のスライド|
 
 
 ## 職務経歴
@@ -88,7 +88,7 @@
  - その他動画配信サイトなど多様なWebサイトクローラー
  - AVR ATMEGA・ESP8266とArduino IDEによる社内およびイベント用ハードウェア制作
  - React.js + AWS CloudSearchによる営業メンバー向けユーティリティー
- - [社内用Pythonライブラリを許可を得てOSSとして公開](https://github.com/fuller-inc/bqx)
+ - 社内用Pythonライブラリを許可を得てOSSとして公開 [https://github.com/fuller-inc/bqx](https://github.com/fuller-inc/bqx)
 
 
 ## スキル
@@ -120,7 +120,7 @@
  - 1万LOC超のプロジェクトを適切に管理しつつ書けるくらいの能力
  - 仕事では Go らしい Web のバックエンドから Linux 上で動くデーモンまで幅広く経験
  - 趣味では堅牢で効率的な並行プログラミング言語が欲しいときに使用
- - 趣味での具体例: [Nikon一眼レフのWebカメラ化](http://www.zopfco.de/entry/2020/07/28/192024)
+ - 趣味での具体例: Nikon一眼レフのWebカメラ化 [http://www.zopfco.de/entry/2020/07/28/192024](http://www.zopfco.de/entry/2020/07/28/192024)
 
 
 ### C, C++
@@ -156,7 +156,7 @@
  歴7年/業務2年
 
  - カスタムボードにLinuxを移植できるくらいの能力
- - 趣味での具体例: [SHARPの電子辞書にLinuxを移植](http://www.zopfco.de/entry/sharp_brain_linux)
+ - 趣味での具体例: SHARPの電子辞書にLinuxを移植 [http://www.zopfco.de/entry/sharp_brain_linux](http://www.zopfco.de/entry/sharp_brain_linux)
  - カーネルモジュールのフルスクラッチ経験あり
  - カーネル全体に共通するサブシステムの概念を理解・特にグラフィック周辺のAPIについて知識が豊富
 
@@ -167,7 +167,7 @@
 
  - VerilogやブロックでRTLをデザインしたり、制約を書いたり、ドライバを書いてLinuxと結合したりできるくらいの能力
  - GROOVE XにてLinux kernel 〜 FPGAのレイヤーをほぼ1人で担当
- - 趣味での具体例: [Nintendo Switchからデジタル音声を取り出しS/PDIFに変換](http://www.zopfco.de/entry/2020/08/14/191234)
+ - 趣味での具体例: Nintendo Switchからデジタル音声を取り出しS/PDIFに変換 [http://www.zopfco.de/entry/2020/08/14/191234](http://www.zopfco.de/entry/2020/08/14/191234)
  - 高位合成は経験無し
  - Xilinx製品の経験がほとんど・Intelは学生の頃触った程度
 
