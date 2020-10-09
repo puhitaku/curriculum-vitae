@@ -8,3 +8,11 @@
 
 ~~Curriculum Vitae (English, 英語)~~ Under construction
 
+
+# GitHub Flavored Markdown で描画
+
+```
+$ pip install grip
+$ grip JA.md
+```
+
